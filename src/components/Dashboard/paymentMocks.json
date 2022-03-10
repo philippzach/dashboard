@@ -1,0 +1,9 @@
+{
+  "paymentMethods": [
+     {
+      "name": "Online bank transfer.",
+      "supportsRecurring": false,
+      "type": "directEbanking"
+     }
+  ]
+}

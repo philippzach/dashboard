@@ -1,0 +1,9 @@
+{
+  "paymentMethods": [
+     {
+      "name": "Klarna",
+      "supportsRecurring": false,
+      "type": "klarna"
+    }
+  ]
+}
